@@ -14,7 +14,7 @@ Business case is to transform form a monolithic application to a microservice ar
 
 ### Transformation
 
-![transformation](src/main/resources/static/images/system-generation-overview.png)
+![transformation](src/main/resources/images/static/system-generation-overview.png)
 
 #### Oracle Service Bus
 First phase is to transform Oracle Service Bus projects into Spring boot microservices
@@ -23,7 +23,7 @@ First phase is to transform Oracle Service Bus projects into Spring boot microse
 ## Microservice Architecture
 Loose coupling is one of the most important principles in a good microservice architecture.
 
-![microservice-architecture](src/main/resources/static/images//microservice-architecture.png)
+![microservice-architecture](src/main/resources/images/static/microservice-architecture.png)
 
 ## Microservice communication
 Microservices loosely coupled and use both synchronous or asynchronous communication between each others.
@@ -35,7 +35,7 @@ Synchronous communication is typically based on REST services.
 Microservice should be loosely coupled to the platform and environment.
 
 ## Microservice cloud ready
-![microservice-architecture](src/main/resources/static/images//microservice-overview.png)
+![microservice-architecture](src/main/resources/images/static/microservice-overview.png)
 
 ### Docker
 Docker works by providing a standard way to run your code. Docker is an operating system for containers.
