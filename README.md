@@ -10,8 +10,8 @@ Business case is to transform form a monolithic application to a microservice ar
 - Design and implement template for spring boot microservice application
 
 ## Monolith to Microservice
-![monolith](src/main/resources/static/images/monolith.png)
-
+![monolith](src/main/resources/images/static/monolith.png)
+					       
 ### Transformation
 
 ![transformation](src/main/resources/images/static/system-generation-overview.png)
