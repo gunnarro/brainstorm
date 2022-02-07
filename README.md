@@ -29,7 +29,7 @@ Loose coupling is one of the most important principles in a good microservice ar
 Microservices loosely coupled and use both synchronous or asynchronous communication between each others.
 AMPQ is used for asynchronous communication, where json is used as message format.
 Synchronous communication is typically based on REST services.
-![microservice-communication](src/main/resources/static/images/microservice-communication.png)
+![microservice-communication](src/main/resources/images/static/microservice-communication.png)
 
 ## Microservice packaging
 Microservice should be loosely coupled to the platform and environment.
@@ -39,6 +39,7 @@ Microservice should be loosely coupled to the platform and environment.
 
 ### Docker
 Docker works by providing a standard way to run your code. Docker is an operating system for containers.
+Build and scale distributed application architectures by taking advantage of standardized code deployments using Docker containers.
 
 ### Helm
 Helm is a package manager for Kubernetes. It allows you to package and release applications as tarballs (called charts) into a versioned repository and then lets you install, upgrade or remove the apps.
